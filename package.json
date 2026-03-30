@@ -1,1 +1,13 @@
-
+{
+  "name": "simple-js-script",
+  "version": "1.0.0",
+  "description": "A clean and simple JavaScript utility script",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["javascript", "utility", "simple"],
+  "author": "Meagan",
+  "license": "MIT"
+}
